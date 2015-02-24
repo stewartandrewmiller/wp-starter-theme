@@ -27,3 +27,6 @@ npm install && bower install && grunt
 To get out of the development task, press `control` + `c`.
 
 Make sure to copy contents of directory into wordpress themes folder
+
+
+iulberlbkuarv.kjbneqrliuqer;ilubsv.kbjuv;iouheqrt;iouher
